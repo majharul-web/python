@@ -15,6 +15,22 @@ print(num_1//num_2)
 
 
 '''
+Python Assignment Operators
+Operator	Example	      Same As	
+=	         x = 5	      x = 5	
++=	         x += 3	      x = x + 3	
+-=	         x -= 3	      x = x - 3	
+*=	         x *= 3	      x = x * 3	
+/=	         x /= 3	      x = x / 3	
+%=	         x %= 3	      x = x % 3	
+//=	         x //= 3	  x = x // 3	
+**=          x **= 3	  x = x ** 3	
+&=	         x &= 3	      x = x & 3	
+|=	         x |= 3	      x = x | 3	
+^=	         x ^= 3	      x = x ^ 3	
+>>=         x >>= 3	      x = x >> 3	
+<<=	         x <<= 3	  x = x << 3	
+
 Python Comparison Operators
 Comparison operators are used to compare two values:
 
