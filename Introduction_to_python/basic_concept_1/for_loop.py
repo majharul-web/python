@@ -1,5 +1,5 @@
 # basic for loop
-from Introduction_to_python.intro.variable import fruits
+from Introduction_to_python.basic_concept_1.variable import fruits
 
 num=[1,2,3,4,5,6,7,8,9,10]
 for n in num:
