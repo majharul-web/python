@@ -34,3 +34,7 @@ index_at=numbers.index(56)
 print(index_at)
 
 print(numbers.reverse())
+
+numbers_with_index=enumerate(numbers)
+for index,val in numbers_with_index:
+    print(f"{index}={val}")

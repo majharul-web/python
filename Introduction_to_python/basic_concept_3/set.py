@@ -1,3 +1,4 @@
+# Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
 myset_1=set([1,2,3,4,5])
 myset_2={'apple','banana'}
 
