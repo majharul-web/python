@@ -52,3 +52,18 @@ def multiple_return(num_1,num_2):
     # return sum,mult,rem
     return [sum,mult,rem]
 print(multiple_return(10,20))
+
+def print_numbers(*args):
+    for number in args:
+        print(number)
+
+# Calling the function with multiple arguments
+print_numbers(1, 2, 3, 4, 5)
+
+def print_student_info(**kwargs):
+    for key, value in kwargs.items():
+        print(f"{key}: {value}")
+
+# Calling the function with keyword arguments
+print_student_info(name="John", age=21, grade="A")
+
