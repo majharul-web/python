@@ -21,3 +21,6 @@ student_1=Student('Karim','Male')
 print(student_1)
 
 
+
+
+
