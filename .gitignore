@@ -2,3 +2,8 @@
 .venv
 .exam
 venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
