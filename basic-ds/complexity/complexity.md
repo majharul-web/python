@@ -1,6 +1,6 @@
 ### 🕒 Time Complexity
 
-Time complexity measures **how the number of operations grows** as the input size (`n`) increases.  
+Time complexity is a way to measure how much time an algorithm takes to run based on the size of the input (usually written as n).  
 It doesn't refer to actual execution time but rather to the **number of steps an algorithm takes**.
 
 We use **Big O notation** to express time complexity:
