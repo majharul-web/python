@@ -1,6 +1,6 @@
 .idea
 .venv
-.exam
+
 venv
 __pycache__
 *.pyc
