@@ -1,14 +1,18 @@
-## What is Time Complexity?
+### 🕒 Time Complexity
 
-Answer: Time complexity is a way to measure how much time an algorithm takes to run based on the size of the input (usually written as n).
-It's depend on number of operation,not execution time.
-We express it using Big O notation, like:
+Time complexity measures **how the number of operations grows** as the input size (`n`) increases.  
+It doesn't refer to actual execution time but rather to the **number of steps an algorithm takes**.
 
--O(1) → constant time
--O(log n) → logarithmic time
--O(n) → linear time
--O(n log n) → linearithmic time
--O(n^2) → quadratic time
--O(2^n) → exponential time
--O(n!) → factorial time
--O(n^k) → polynomial time
+We use **Big O notation** to express time complexity:
+
+- `O(1)` – Constant time
+- `O(log n)` – Logarithmic time
+- `O(n)` – Linear time
+- `O(n log n)` – Linearithmic time
+- `O(n²)` – Quadratic time
+- `O(√n)` – Square root time
+- `O(2ⁿ)` – Exponential time
+- `O(n!)` – Factorial time
+- `O(nᵏ)` – Polynomial time (where `k` is a constant)
+- `O(n^3)` – Cubic time
+- `O(n^4)` – Quartic time
